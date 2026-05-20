@@ -1,0 +1,12 @@
+{
+  "name": "Sahyadri-Siri",
+  "description": "A community-driven water-quality map for the Western Ghats (Sahyadri), providing real-time alerts and health scores for local streams and springs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Maps",
+    "Real-time Data",
+    "Geolocation"
+  ]
+}
